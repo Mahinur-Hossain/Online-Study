@@ -1,0 +1,47 @@
+p{
+  font-family: 'Poppins', sans-serif;
+}
+@media (prefers-reduced-motion: reduce) 
+
+
+
+
+.btn:hover {
+  color: #212529;
+  text-decoration: none;
+}
+
+
+
+.button-2:hover {
+  color: #fff;
+  background-color: #e72626;
+  box-shadow: none;
+}
+
+  .backgroundImage{
+    background-image: url(../image/middle.png);
+}
+
+.button-2{
+  border-radius: 4rem;
+  
+}
+.img-itm{
+  border-radius: 2rem;
+} 
+
+
+.title-team-32{
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  font-size: larger;
+  padding-top: 20px;
+}
+
+
+team-main-19{
+  border-radius: 2rem;
+}
